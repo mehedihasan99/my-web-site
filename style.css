@@ -6,6 +6,9 @@ h1{
     font-size: 50px;
    
 }
+p{
+    color: dimgray;
+}
 .name-highlight{
     color: orange;
 }
@@ -32,4 +35,24 @@ section{
     color: rgb(112, 25, 25);
     font-weight: 700;
     border-radius: 5px;
+}
+.two1 img{
+    width: 40%;
+    float: left;
+    margin-top: -1%;
+    margin-left: 5%;
+    margin-right: 7%;
+    padding-left: 2%;
+}
+.two2{
+    width: 90%;
+    
+    margin-top: 11%;
+    margin-right: 35px;
+    
+}
+.dream-area{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
